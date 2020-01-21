@@ -1,0 +1,2 @@
+c:\users\vance45\documents\visual studio 2015\Projects\BasicCsharp\BasicCsharp\bin\Debug\BasicCsharp.exe.config
+C:\Users\vance45\Documents\Visual Studio 2015\Projects\IT242\BasicCsharp\BasicCsharp\bin\Debug\BasicCsharp.exe.config
